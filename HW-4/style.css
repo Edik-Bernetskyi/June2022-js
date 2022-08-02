@@ -1,0 +1,21 @@
+body{
+    background: darkviolet;
+}
+
+h3{
+    background: chartreuse;
+    color: aliceblue;
+}
+
+.product-card {
+    width: 300px;
+}
+
+.product-image {
+    width: 100%;
+}
+
+.product-title {
+    width: 100%;
+    font-size: 20px;
+}
